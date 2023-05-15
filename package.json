@@ -15,6 +15,7 @@
   "author": "Pedro Capriles <caprilespe@outlook.com>",
   "license": "MIT",
   "dependencies": {
+    "playwright": "^1.33.0",
     "resemblejs": "^4.1.0"
   }
 }
