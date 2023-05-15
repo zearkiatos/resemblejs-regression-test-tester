@@ -1,0 +1,21 @@
+{
+  "name": "resemblejs-regression-test-tester",
+  "version": "1.0.0",
+  "description": "This is a project for create regression 🔙 test 🧪 with resemblejs 🟨 with playwright 🎭. It is for understand, learn regression tests 🧪",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./src/index.js"
+  },
+  "keywords": [
+    "Resemblejs",
+    "regression",
+    "test",
+    "playwright"
+  ],
+  "author": "Pedro Capriles <caprilespe@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.33.0",
+    "resemblejs": "^4.1.0"
+  }
+}
